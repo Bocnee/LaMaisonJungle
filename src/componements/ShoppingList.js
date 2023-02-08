@@ -37,7 +37,7 @@ function ShoppingList({ cart, updateCart }) {
 			<ul className='plant__list'>
 				{plantList.map(({ id, cover, name, water, light, price, category }) => (
 					!activeCategory || activeCategory === category ? (
-						<div key={id}>
+						<div className='div__flex' key={id}>
 							<PlantItem
 								cover={cover}
 								name={name}
@@ -45,7 +45,7 @@ function ShoppingList({ cart, updateCart }) {
 								light={light}
 								price={price}
 							/>
-							<button onClick={() => addToCart(name, price)}>Ajouter</button>
+							<button className='addToCart__btn' onClick={() => addToCart(name, price)}>Ajouter</button>
 						</div>
 					) : null
 				))}

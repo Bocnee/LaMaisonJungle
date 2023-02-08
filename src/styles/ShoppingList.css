@@ -9,3 +9,29 @@
 	flex-wrap: wrap;
 	justify-content: center;
 }
+
+.addToCart__btn {
+	margin-right: 20px;
+	height: 20px;
+	position: absolute;
+	bottom: 25px;
+	right: 0;
+	width: 100px;
+	background: none;
+	background-color: #31b572;
+	color: white;
+	border: 2px solid #31b572;
+	border-radius: 25px;
+	padding-bottom: 25px;
+	padding-top: 10px;
+}
+
+.addToCart__btn:hover {
+	background-color: #4ccc8c;
+	cursor: pointer;
+}
+
+.div__flex {
+	display: flex;
+	position: relative;
+}
