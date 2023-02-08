@@ -1,0 +1,91 @@
+.cart {
+	color: white;
+	background-color: #31b572;
+	padding: 32px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width: 300px;
+}
+
+.cart__addButton {
+	margin-left: 32px;
+	cursor: pointer;
+}
+
+.cart__toggleButton {
+	background: none;
+	outline: none;
+	border: none;
+	font-weight: 600;
+	cursor: pointer;
+	align-self: self-start;
+	padding: 0;
+	color: white;
+	align-self: flex-end;
+}
+
+.cart__closed {
+	padding: 32px;
+	width: 300px;
+}
+
+.cart__closed > .cart__toggleButton {
+	color: black;
+}
+
+.cart__flex__group {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid white;
+}
+
+.cart__title {
+	text-align: left;
+	font-size: 17px;
+}
+
+.cart__total {
+	text-align: right;
+}
+
+
+.cart__title__name {
+	font-weight: 500;
+	text-transform: capitalize;
+}
+
+.cart__flex {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin:  0;
+}
+
+.cart__flex > p {
+	padding: 5px 5px 5px 20px;
+	margin: 0;
+}
+
+.cart__amount {
+	border-bottom: .5px dashed white;
+}
+
+.empty__button {
+	background: none;
+	color: white;
+	font-size: 16px;
+	border: 2px solid white;
+	padding: 10px;
+	border-radius: 20px;
+	cursor: pointer;
+	float: right;
+}
+
+.empty__button:hover {
+	background-color: #47cc89;
+}

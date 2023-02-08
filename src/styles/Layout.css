@@ -1,0 +1,4 @@
+.layoutInner {
+	display: flex;
+	flex-direction: row;
+}

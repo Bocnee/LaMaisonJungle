@@ -1,0 +1,27 @@
+.categories {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.categories__select {
+    margin-right: 15px;
+    text-align: center;
+    background: none;
+    padding: 5px;
+    border: 2px solid #31b572;
+    border-radius: 20px;
+}
+
+.reset__button {
+    background: none;
+    padding: 5px;
+    border: 2px solid #31b572;
+    background-color: #31b572;
+    color: white;
+    border-radius: 25px;
+}
+
+.reset__button:hover {
+    background-color: #77e2ac;
+    cursor: pointer;
+}
