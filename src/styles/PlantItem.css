@@ -25,3 +25,18 @@
 	top: 0;
 	font-weight: 500;
 }
+
+@media screen and (max-width: 640px) {
+	.plant__item__cover {
+		width: 150px;
+		height: 200px;
+	}
+
+	.plant__item__price {
+		padding: 10px;
+	}
+
+	.plant__item {
+		margin-bottom: 30px;
+	}
+}

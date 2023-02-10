@@ -35,3 +35,15 @@
 	display: flex;
 	position: relative;
 }
+
+@media screen and (max-width: 640px) {
+	.addToCart__btn {
+		width: 70px;
+		bottom: 20px;
+	}
+
+	.plant__list {
+		padding: 10px;
+		justify-content: space-around;
+	}
+}

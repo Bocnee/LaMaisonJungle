@@ -27,11 +27,12 @@
 
 .cart__closed {
 	padding: 32px;
-	width: 300px;
+	width: 125px;
+	background-color: #31b572;
 }
 
 .cart__closed > .cart__toggleButton {
-	color: black;
+	color: white;
 }
 
 .cart__flex__group {
@@ -88,4 +89,17 @@
 
 .empty__button:hover {
 	background-color: #47cc89;
+}
+
+@media screen and (max-width: 640px) {
+	.cart {
+		width: auto;
+	}
+
+	.cart__closed {
+		width: auto;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
 }

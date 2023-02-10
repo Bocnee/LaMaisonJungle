@@ -17,3 +17,14 @@
     height: 45px;
     width: 45px;
 }
+
+@media screen and (max-width: 640px) {
+    .banner {
+        margin: 0;
+        padding: 0;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        margin-top: 30px;
+    }
+}
