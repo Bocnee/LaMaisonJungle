@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/LaMaisonJungle/precache-manifest.6601949e6bc73873581b1df6b4ae81fe.js"
+  "/LaMaisonJungle/precache-manifest.3c2b99ba5a11e723cc67223dd425c197.js"
 );
 
 workbox.clientsClaim();

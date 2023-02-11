@@ -1,7 +1,7 @@
 {
   "main.css": "/LaMaisonJungle/static/css/main.78efa423.chunk.css",
-  "main.js": "/LaMaisonJungle/static/js/main.b2709ff1.chunk.js",
-  "main.js.map": "/LaMaisonJungle/static/js/main.b2709ff1.chunk.js.map",
+  "main.js": "/LaMaisonJungle/static/js/main.3784f76c.chunk.js",
+  "main.js.map": "/LaMaisonJungle/static/js/main.3784f76c.chunk.js.map",
   "static/js/1.563694ed.chunk.js": "/LaMaisonJungle/static/js/1.563694ed.chunk.js",
   "static/js/1.563694ed.chunk.js.map": "/LaMaisonJungle/static/js/1.563694ed.chunk.js.map",
   "runtime~main.js": "/LaMaisonJungle/static/js/runtime~main.edd15305.js",
@@ -19,6 +19,6 @@
   "static/media/water.svg": "/LaMaisonJungle/static/media/water.01fd98f0.svg",
   "static/css/main.78efa423.chunk.css.map": "/LaMaisonJungle/static/css/main.78efa423.chunk.css.map",
   "index.html": "/LaMaisonJungle/index.html",
-  "precache-manifest.6601949e6bc73873581b1df6b4ae81fe.js": "/LaMaisonJungle/precache-manifest.6601949e6bc73873581b1df6b4ae81fe.js",
+  "precache-manifest.3c2b99ba5a11e723cc67223dd425c197.js": "/LaMaisonJungle/precache-manifest.3c2b99ba5a11e723cc67223dd425c197.js",
   "service-worker.js": "/LaMaisonJungle/service-worker.js"
 }

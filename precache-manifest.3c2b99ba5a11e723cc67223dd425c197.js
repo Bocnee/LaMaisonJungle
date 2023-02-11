@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b2709ff1eb92f50442b4",
+    "revision": "3784f76ccbb47e8b0ff3",
     "url": "/LaMaisonJungle/static/css/main.78efa423.chunk.css"
   },
   {
-    "revision": "b2709ff1eb92f50442b4",
-    "url": "/LaMaisonJungle/static/js/main.b2709ff1.chunk.js"
+    "revision": "3784f76ccbb47e8b0ff3",
+    "url": "/LaMaisonJungle/static/js/main.3784f76c.chunk.js"
   },
   {
     "revision": "563694ed5d313d746b54",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/LaMaisonJungle/static/media/water.01fd98f0.svg"
   },
   {
-    "revision": "365814caeabbd2866cf6677e18402be2",
+    "revision": "af6c43fd394d4c91a1970893fba98d95",
     "url": "/LaMaisonJungle/index.html"
   }
 ];
