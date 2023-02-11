@@ -1,24 +1,24 @@
 {
-  "files": {
-    "main.css": "/LaMaisonJungle/static/css/main.fed2981e.css",
-    "main.js": "/LaMaisonJungle/static/js/main.4137298f.js",
-    "static/media/olivier.jpg": "/LaMaisonJungle/static/media/olivier.b2908b40d9fb7f86626b.jpg",
-    "static/media/monstera.jpg": "/LaMaisonJungle/static/media/monstera.6257bc6b1e699fa6dde1.jpg",
-    "static/media/basil.jpg": "/LaMaisonJungle/static/media/basil.be00474e950eb5af0054.jpg",
-    "static/media/cactus.jpg": "/LaMaisonJungle/static/media/cactus.a71c2062a926cb3d5db8.jpg",
-    "static/media/pothos.jpg": "/LaMaisonJungle/static/media/pothos.d72dc0ac2f240d84c9d7.jpg",
-    "static/media/lyrata.jpg": "/LaMaisonJungle/static/media/lyrata.2e915120c952bdb7066c.jpg",
-    "static/media/mint.jpg": "/LaMaisonJungle/static/media/mint.b83a3d2e0c1c1cda808a.jpg",
-    "static/media/calathea.jpg": "/LaMaisonJungle/static/media/calathea.455c33e2bd3e5509c907.jpg",
-    "static/media/succulent.jpg": "/LaMaisonJungle/static/media/succulent.f4329849930298a9e46b.jpg",
-    "static/media/sun.svg": "/LaMaisonJungle/static/media/sun.26fb5ace82c593ca64a695a4d42b0568.svg",
-    "static/media/water.svg": "/LaMaisonJungle/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
-    "index.html": "/LaMaisonJungle/index.html",
-    "main.fed2981e.css.map": "/LaMaisonJungle/static/css/main.fed2981e.css.map",
-    "main.4137298f.js.map": "/LaMaisonJungle/static/js/main.4137298f.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.fed2981e.css",
-    "static/js/main.4137298f.js"
-  ]
+  "main.css": "/LaMaisonJungle/static/css/main.78efa423.chunk.css",
+  "main.js": "/LaMaisonJungle/static/js/main.b2709ff1.chunk.js",
+  "main.js.map": "/LaMaisonJungle/static/js/main.b2709ff1.chunk.js.map",
+  "static/js/1.563694ed.chunk.js": "/LaMaisonJungle/static/js/1.563694ed.chunk.js",
+  "static/js/1.563694ed.chunk.js.map": "/LaMaisonJungle/static/js/1.563694ed.chunk.js.map",
+  "runtime~main.js": "/LaMaisonJungle/static/js/runtime~main.edd15305.js",
+  "runtime~main.js.map": "/LaMaisonJungle/static/js/runtime~main.edd15305.js.map",
+  "static/media/monstera.jpg": "/LaMaisonJungle/static/media/monstera.3b86648d.jpg",
+  "static/media/lyrata.jpg": "/LaMaisonJungle/static/media/lyrata.f73e0a86.jpg",
+  "static/media/pothos.jpg": "/LaMaisonJungle/static/media/pothos.cc60210c.jpg",
+  "static/media/succulent.jpg": "/LaMaisonJungle/static/media/succulent.463c1022.jpg",
+  "static/media/olivier.jpg": "/LaMaisonJungle/static/media/olivier.40fafdd8.jpg",
+  "static/media/basil.jpg": "/LaMaisonJungle/static/media/basil.dc0510aa.jpg",
+  "static/media/mint.jpg": "/LaMaisonJungle/static/media/mint.14cf9205.jpg",
+  "static/media/calathea.jpg": "/LaMaisonJungle/static/media/calathea.ff132166.jpg",
+  "static/media/cactus.jpg": "/LaMaisonJungle/static/media/cactus.de9d7400.jpg",
+  "static/media/sun.svg": "/LaMaisonJungle/static/media/sun.dbda652c.svg",
+  "static/media/water.svg": "/LaMaisonJungle/static/media/water.01fd98f0.svg",
+  "static/css/main.78efa423.chunk.css.map": "/LaMaisonJungle/static/css/main.78efa423.chunk.css.map",
+  "index.html": "/LaMaisonJungle/index.html",
+  "precache-manifest.6601949e6bc73873581b1df6b4ae81fe.js": "/LaMaisonJungle/precache-manifest.6601949e6bc73873581b1df6b4ae81fe.js",
+  "service-worker.js": "/LaMaisonJungle/service-worker.js"
 }
